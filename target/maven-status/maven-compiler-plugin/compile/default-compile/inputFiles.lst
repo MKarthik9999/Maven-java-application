@@ -1,0 +1,6 @@
+/home/ec2-user/Maven-java-application/src/main/java/com/app/service/UserService.java
+/home/ec2-user/Maven-java-application/src/main/java/com/app/config/AppInitializer.java
+/home/ec2-user/Maven-java-application/src/main/java/com/app/config/AppConfiguration.java
+/home/ec2-user/Maven-java-application/src/main/java/com/app/controller/UserRestController.java
+/home/ec2-user/Maven-java-application/src/main/java/com/app/service/UserServiceImpl.java
+/home/ec2-user/Maven-java-application/src/main/java/com/app/domain/User.java
